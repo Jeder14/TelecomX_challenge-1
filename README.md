@@ -1,4 +1,17 @@
-# 📊 Telecom X - Análisis de Evasión de Clientes (Churn)
+# 📊 Telecom X - Análisis de Evasión de Clientes
+
+## Insignias
+![Status](https://img.shields.io/badge/estado-finalizado-28a745?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white&style=flat-square)
+![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![NumPy](https://img.shields.io/badge/numpy-013243?logo=numpy&logoColor=white&style=flat-square)
+![Matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/seaborn-4B8BBE?style=flat-square)
+![Plotly](https://img.shields.io/badge/plotly.express-3F4F75?logo=plotly&logoColor=white&style=flat-square)
+![Requests](https://img.shields.io/badge/requests-000000?style=flat-square)
+![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square)
+[![Open In Colab](https://img.shields.io/badge/abrir%20en-Colab-F9AB00?logo=googlecolab&logoColor=white&style=flat-square)](REEMPLAZA_AQUI_CON_EL_LINK_DE_TU_NOTEBOOK)
+
 
 ## 📑 Índice
 1. [Descripción](#descripción)  
